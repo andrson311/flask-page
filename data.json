@@ -1,0 +1,168 @@
+{
+    "menu": {
+        "menu-starters": {
+            "name": "Starters",
+            "data": [
+                {
+                    "dish": "Potato Skins",
+                    "ingredients": "Potatoes, Bacon, Cheddar Cheese, Sour Cream, Green Onions",
+                    "img": "img/menu/starters-0.png",
+                    "price": "$8.99"
+                },
+                {
+                    "dish": "Potato Croquettes",
+                    "ingredients": "Mashed Potatoes, Breadcrumbs, Eggs, Parmesan Cheese, Parsley",
+                    "img": "img/menu/starters-1.png",
+                    "price": "$7.50"
+                },
+                {
+                    "dish": "Potato Pancakes",
+                    "ingredients": "Potatoes, Flour, Eggs, Onions, Salt",
+                    "img": "img/menu/starters-2.png",
+                    "price": "$6.99"
+                },
+                {
+                    "dish": "Potato Wedges",
+                    "ingredients": "Potatoes, Olive Oil, Paprika, Garlic Powder, Salt",
+                    "img": "img/menu/starters-3.png",
+                    "price": "$5.99"
+                },
+                {
+                    "dish": "Potato Latkes",
+                    "ingredients": "Potatoes, Onion, Eggs, Flour, Salt",
+                    "img": "img/menu/starters-4.png",
+                    "price": "$8.50"
+                },
+                {
+                    "dish": "Potato Soup",
+                    "ingredients": "Potatoes, Onion, Garlic, Chicken Broth, Heavy Cream",
+                    "img": "img/menu/starters-5.png",
+                    "price": "$4.99"
+                }
+            ]
+        },
+        "menu-breakfast": {
+            "name": "Breakfast",
+            "data": [
+                {
+                    "dish": "Potato Hash",
+                    "ingredients": "Potatoes, Onions, Bell peppers, Bacon, Eggs",
+                    "img": "img/menu/breakfast-0.png",
+                    "price": "$9.99"
+                },
+                {
+                    "dish": "Potato Pancakes",
+                    "ingredients": "Potatoes, Flour, Eggs, Onions, Sour cream",
+                    "img": "img/menu/breakfast-1.png",
+                    "price": "$8.99"
+                },
+                {
+                    "dish": "Potato Breakfast Burrito",
+                    "ingredients": "Potatoes, Eggs, Cheese, Sausage, Tortillas",
+                    "img": "img/menu/breakfast-2.png",
+                    "price": "$10.49"
+                },
+                {
+                    "dish": "Potato and Egg Skillet",
+                    "ingredients": "Potatoes, Eggs, Cheese, Bell peppers, Onions",
+                    "img": "img/menu/breakfast-3.png",
+                    "price": "$11.99"
+                },
+                {
+                    "dish": "Potato Breakfast Casserole",
+                    "ingredients": "Potatoes, Bacon, Cheese, Eggs, Milk",
+                    "img": "img/menu/breakfast-4.png",
+                    "price": "$12.99"
+                },
+                {
+                    "dish": "Potato and Sausage Breakfast Bowl",
+                    "ingredients": "Potatoes, Sausage, Eggs, Cheese, Green onions",
+                    "img": "img/menu/breakfast-5.png",
+                    "price": "$10.99"
+                }
+            ]
+        },
+        "menu-lunch": {
+            "name": "Lunch",
+            "data": [
+                {
+                    "dish": "Potato Salad",
+                    "ingredients": "potatoes, mayonnaise, mustard, celery, onion",
+                    "img": "img/menu/lunch-0.png",
+                    "price": "$8.99"
+                },
+                {
+                    "dish": "Mashed Potatoes",
+                    "ingredients": "potatoes, butter, milk, salt, pepper",
+                    "img": "img/menu/lunch-1.png",
+                    "price": "$6.99"
+                },
+                {
+                    "dish": "Potato Soup",
+                    "ingredients": "potatoes, onion, garlic, chicken broth, cream",
+                    "img": "img/menu/lunch-2.png",
+                    "price": "$5.99"
+                },
+                {
+                    "dish": "Potato Skins",
+                    "ingredients": "potatoes, bacon, cheese, sour cream, chives",
+                    "img": "img/menu/lunch-3.png",
+                    "price": "$9.99"
+                },
+                {
+                    "dish": "Potato Pancakes",
+                    "ingredients": "potatoes, flour, egg, onion, salt",
+                    "img": "img/menu/lunch-4.png",
+                    "price": "$7.99"
+                },
+                {
+                    "dish": "Potato Wedges",
+                    "ingredients": "potatoes, olive oil, garlic powder, paprika, rosemary",
+                    "img": "img/menu/lunch-5.png",
+                    "price": "$4.99"
+                }
+            ]
+        },
+        "menu-dinner": {
+            "name": "Dinner",
+            "data": [
+                {
+                    "dish": "Potato Gnocchi",
+                    "ingredients": "Potatoes, Flour, Egg, Parmesan Cheese, Salt",
+                    "img": "img/menu/dinner-0.png",
+                    "price": "$12.99"
+                },
+                {
+                    "dish": "Loaded Baked Potato",
+                    "ingredients": "Potato, Bacon, Cheddar Cheese, Sour Cream, Chives",
+                    "img": "img/menu/dinner-1.png",
+                    "price": "$9.99"
+                },
+                {
+                    "dish": "Potato Leek Soup",
+                    "ingredients": "Potatoes, Leeks, Chicken Broth, Heavy Cream, Butter",
+                    "img": "img/menu/dinner-2.png",
+                    "price": "$7.99"
+                },
+                {
+                    "dish": "Potato Salad",
+                    "ingredients": "Potatoes, Mayonnaise, Mustard, Celery, Onion",
+                    "img": "img/menu/dinner-3.png",
+                    "price": "$6.99"
+                },
+                {
+                    "dish": "Potato Au Gratin",
+                    "ingredients": "Potatoes, Heavy Cream, Cheddar Cheese, Garlic, Butter",
+                    "img": "img/menu/dinner-4.png",
+                    "price": "$10.99"
+                },
+                {
+                    "dish": "Potato Pancakes",
+                    "ingredients": "Potatoes, Onion, Egg, Flour, Sour Cream",
+                    "img": "img/menu/dinner-5.png",
+                    "price": "$8.99"
+                }
+            ]
+        }
+    }
+}
